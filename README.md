@@ -6,6 +6,6 @@ yarenkarakus.github.io
 
 - [Tribute Page](https:///yarenkarakus.github.io/tribute-page)
 - [Survey Form](https://yarenkarakus.github.io/survey-form)
-- [Product Landing Page](hhttps://yarenkarakus.github.io/build-a-landing-page/)
+- [Product Landing Page](hhttps://yarenkarakus.github.io/build-a-landing-page)
 - [Technical Documentation Page](https://yarenkarakus.github.io/technical-page)
 - [Personal Portfolio Page]
