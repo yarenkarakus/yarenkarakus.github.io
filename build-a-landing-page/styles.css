@@ -1,0 +1,246 @@
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Patrick Hand", cursive;
+}
+
+header {
+  background-color: #004080;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 24px;
+  z-index: 999;
+}
+
+.company-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: whitesmoke;
+}
+
+.company-logo h1 {
+  font-family: "Dancing Script", cursive;
+  transition: 0.5s;
+  user-select: none;
+}
+
+.company-logo:hover {
+  color: #e6ac00;
+}
+
+.company-logo img {
+  height: 75px;
+  margin-right: 10px;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline-block;
+}
+
+nav ul li a {
+  display: block;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  margin: 20px;
+  padding: 5px;
+  transition: all 0.3s;
+}
+
+nav ul li a:hover {
+  color: #e6ac00;
+  transform: scale(1.1);
+  border-radius: 0.3rem;
+}
+
+#form {
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  word-wrap: break-word;
+  text-transform: uppercase;
+}
+
+#email {
+  font-size: 16px;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 16px;
+  width: 300px;
+}
+
+#submit {
+  padding: 10px;
+  font-size: 16px;
+  color: #e6ac00;
+  background-color: black;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#submit:hover {
+  opacity: 0.8;
+}
+
+#features {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.features-card {
+  max-width: 300px;
+  padding: 20px;
+  margin: 16px;
+}
+
+#features img {
+  width: 50%;
+  padding-top: 15px;
+}
+
+#how-it-works {
+  width: 98%;
+  margin: 30px auto;
+  display: flex;
+  justify-content: center;
+}
+
+#pricing {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  text-align: center;
+}
+
+#pricing img {
+  height: 150px;
+  width: auto;
+}
+
+.pricing-card {
+  width: 400px;
+  margin: 20px;
+  padding: 16px;
+  background-color: white;
+  border: 3px solid black;
+  border-radius: 10px;
+}
+
+.pricing-card h3 {
+  margin-bottom: 10px;
+}
+
+.pricing-card:hover {
+  transform: scale(1.08);
+  transition: 0.5s ease-out;
+}
+
+figure img {
+  width: 85%;
+}
+
+figcaption {
+  height: 70px;
+}
+
+.price {
+  margin-bottom: 10px;
+}
+
+.heading {
+  background-color: #e6ac00;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 2px;
+}
+
+.price-button {
+  padding: 7px;
+  font-size: 16px;
+  color: #e6ac00;
+  background-color: black;
+  border-radius: 10px;
+  cursor: pointer;
+  justify-content: center;
+  /*butonları hizalayamadım*/
+}
+
+figcaption {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.price {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+footer {
+  padding: 10px;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fa {
+  text-decoration: none;
+  color: white;
+  width: 100%;
+  height: 100%;
+}
+
+.cardfooter {
+  background-color: black;
+  text-align: center;
+  line-height: 40px;
+  height: 40px;
+  width: 40px;
+  margin: 10px;
+  border-radius: 50%;
+}
+
+.cardfooter:hover {
+  background-color: rgb(59, 59, 59);
+  transform: scale(1.2);
+  transition: 1s;
+}
+
+@media (max-width: 838px) {
+  header {
+    flex-direction: column;
+  }
+
+  .company-logo img {
+    margin: auto;
+  }
+
+  #form {
+    margin-top: 300px;
+  }
+}
