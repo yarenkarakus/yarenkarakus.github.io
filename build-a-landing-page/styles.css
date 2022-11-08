@@ -29,6 +29,7 @@ header {
 
 .company-logo h1 {
   font-family: "Dancing Script", cursive;
+  text-align: center;
   transition: 0.5s;
   user-select: none;
 }
@@ -40,6 +41,10 @@ header {
 .company-logo img {
   height: 75px;
   margin-right: 10px;
+}
+
+ul {
+  text-align: center;
 }
 
 nav ul li {
@@ -75,8 +80,8 @@ nav ul li a:hover {
 h2 {
   font-size: 24px;
   margin-bottom: 20px;
-  margin-top: 50px;
-  word-wrap: break-word;
+  margin-top: 30px;
+  text-align: center;
   text-transform: uppercase;
 }
 
@@ -86,6 +91,7 @@ h2 {
   margin-bottom: 15px;
   border-radius: 16px;
   width: 300px;
+  border: 1px solid #004080;
 }
 
 #submit {
@@ -241,6 +247,6 @@ footer {
   }
 
   #form {
-    margin-top: 300px;
+    margin-top: 250px;
   }
 }
