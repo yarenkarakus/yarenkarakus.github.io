@@ -4,8 +4,8 @@ yarenkarakus.github.io
 
 ## Responsive Web Design
 
-- [Tribute Page](https://github.com/yarenkarakus/yarenkarakus.github.io/tree/master/tribute-page)
-- [Survey Form](https://github.com/yarenkarakus/yarenkarakus.github.io/tree/master/survey-form)
-- [Product Landing Page](https://github.com/yarenkarakus/yarenkarakus.github.io/tree/master/build-a-landing-page)
-- [Technical Documentation Page](https://github.com/yarenkarakus/yarenkarakus.github.io/tree/master/technical-page)
+- [Tribute Page](https:///yarenkarakus.github.io/tribute-page)
+- [Survey Form](https://yarenkarakus.github.io/survey-form)
+- [Product Landing Page](hhttps://yarenkarakus.github.io/build-a-landing-page/)
+- [Technical Documentation Page](https://yarenkarakus.github.io/technical-page)
 - [Personal Portfolio Page]
