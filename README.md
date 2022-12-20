@@ -9,3 +9,7 @@
 - [Product Landing Page](https://yarenkarakus.github.io/build-a-landing-page)
 - [Technical Documentation Page](https://yarenkarakus.github.io/technical-page)
 - [Personal Portfolio Page](https://yarenkarakus.github.io/personal-portfolio)
+
+### JS30 Projects
+
+- [JS Drum Kit](https://yarenkarakus.github.io/javascript-drum-kit)
