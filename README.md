@@ -13,3 +13,4 @@
 ### JS30 Projects
 
 - [JS Drum Kit](https://yarenkarakus.github.io/javascript-drum-kit)
+- [JS and Css Clock](https://yarenkarakus.github.io/javascript-and-css-clock)
