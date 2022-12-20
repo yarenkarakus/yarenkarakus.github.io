@@ -14,3 +14,4 @@
 
 - [JS Drum Kit](https://yarenkarakus.github.io/javascript-drum-kit)
 - [JS and Css Clock](https://yarenkarakus.github.io/javascript-and-css-clock)
+- [JS Css Variables](https://yarenkarakus.github.io/javascript-css-variables)
