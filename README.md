@@ -16,6 +16,7 @@
 - [JS and Css Clock](https://yarenkarakus.github.io/javascript-and-css-clock)
 - [JS Css Variables](https://yarenkarakus.github.io/javascript-css-variables)
 - [JS Array Cardio Day 1](https://yarenkarakus.github.io/javascript-array-cardio-day-1)
+- [JS Flex Panels Gallery](https://yarenkarakus.github.io/javascript-flex-panels-gallery)
 - [JS Type Ahead](https://yarenkarakus.github.io/javascript-type-ahead)
 - [JS Array Cardio Day 2](https://yarenkarakus.github.io/javascript-array-cardio-day-2)
 - [JS Fun With Html5 Canvas ](https://yarenkarakus.github.io/javascript-fun-with-html5-canvas)
