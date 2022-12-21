@@ -16,3 +16,4 @@
 - [JS and Css Clock](https://yarenkarakus.github.io/javascript-and-css-clock)
 - [JS Css Variables](https://yarenkarakus.github.io/javascript-css-variables)
 - [JS Array Cardio Day 1](https://yarenkarakus.github.io/javascript-array-cardio-day-1)
+- [JS Type Ahead](https://yarenkarakus.github.io/javascript-type-ahead)
