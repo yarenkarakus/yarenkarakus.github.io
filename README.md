@@ -20,3 +20,4 @@
 - [JS Type Ahead](https://yarenkarakus.github.io/javascript-type-ahead)
 - [JS Array Cardio Day 2](https://yarenkarakus.github.io/javascript-array-cardio-day-2)
 - [JS Fun With Html5 Canvas ](https://yarenkarakus.github.io/javascript-fun-with-html5-canvas)
+- [JS Dev Tools Domination ](https://yarenkarakus.github.io/javascript-dev-tools-domination)
