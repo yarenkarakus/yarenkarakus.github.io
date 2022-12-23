@@ -22,3 +22,4 @@
 - [JS Fun With Html5 Canvas ](https://yarenkarakus.github.io/javascript-fun-with-html5-canvas)
 - [JS Dev Tools Domination ](https://yarenkarakus.github.io/javascript-dev-tools-domination)
 - [JS Key Sequence Detection ](https://yarenkarakus.github.io/javascript-key-sequence-detection)
+- [JS Slide In on Scroll ](https://yarenkarakus.github.io/javascript-slide-in-on-scroll)
