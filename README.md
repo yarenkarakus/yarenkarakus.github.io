@@ -24,3 +24,4 @@
 - [JS Key Sequence Detection ](https://yarenkarakus.github.io/javascript-key-sequence-detection)
 - [JS Slide In on Scroll ](https://yarenkarakus.github.io/javascript-slide-in-on-scroll)
 - [JS References Vs Copying ](https://yarenkarakus.github.io/javascript-references-vs-copying)
+- [JS LocalStorage ](https://yarenkarakus.github.io/javascript-localstorage)
