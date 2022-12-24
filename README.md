@@ -25,3 +25,4 @@
 - [JS Slide In on Scroll ](https://yarenkarakus.github.io/javascript-slide-in-on-scroll)
 - [JS References Vs Copying ](https://yarenkarakus.github.io/javascript-references-vs-copying)
 - [JS LocalStorage ](https://yarenkarakus.github.io/javascript-localstorage)
+- [JS Mouse Move Shadow ](https://yarenkarakus.github.io/javascript-mouse-move-shadow)
