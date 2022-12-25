@@ -27,3 +27,4 @@
 - [JS LocalStorage ](https://yarenkarakus.github.io/javascript-localstorage)
 - [JS Mouse Move Shadow ](https://yarenkarakus.github.io/javascript-mouse-move-shadow)
 - [JS Sort Without Articles ](https://yarenkarakus.github.io/javascript-sort-without-articles)
+- [JS Adding Up Times With Reduce](https://yarenkarakus.github.io/javascript-adding-up-times-with-reduce)
