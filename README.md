@@ -32,3 +32,4 @@
 - [JS Speech Recognition](https://yarenkarakus.github.io/javascript-speech-recognition)
 - [JS Geolocation](https://yarenkarakus.github.io/javascript-geolocation)
 - [JS Follow Along Link Highlighter](https://yarenkarakus.github.io/javascript-follow-along-link-highlighter)
+- [JS Speech Synthesis](https://yarenkarakus.github.io/javascript-speech-synthesis)
