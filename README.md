@@ -29,3 +29,4 @@
 - [JS Sort Without Articles ](https://yarenkarakus.github.io/javascript-sort-without-articles)
 - [JS Adding Up Times With Reduce](https://yarenkarakus.github.io/javascript-adding-up-times-with-reduce)
 - [JS Webcam Fun](https://yarenkarakus.github.io/javascript-webcam-fun)
+- [JS Speech Recognition](https://yarenkarakus.github.io/javascript-speech-recognition)
