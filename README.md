@@ -36,3 +36,4 @@
 - [JS Sticky Nav](https://yarenkarakus.github.io/javascript-sticky-nav)
 - [JS Event Capture, Propagation, Bubbling and Once](https://yarenkarakus.github.io/javascript-event-capture-propagation-bubbling-and-once)
 - [JS Stripe Follow Along Nav](https://yarenkarakus.github.io/javascript-stripe-follow-along-nav)
+- [JS Click And Drag](https://yarenkarakus.github.io/javascript-click-and-drag)
