@@ -40,3 +40,4 @@
 - [JS Click And Drag](https://yarenkarakus.github.io/javascript-click-and-drag)
 - [JS Video Speed Controller](https://yarenkarakus.github.io/javascript-video-speed-controller)
 - [JS Countdown Timer](https://yarenkarakus.github.io/javascript-countdown-timer)
+- [JS Whack A Mole ](https://yarenkarakus.github.io/javascript-whack-a-mole)
