@@ -39,3 +39,4 @@
 - [JS Stripe Follow Along Nav](https://yarenkarakus.github.io/javascript-stripe-follow-along-nav)
 - [JS Click And Drag](https://yarenkarakus.github.io/javascript-click-and-drag)
 - [JS Video Speed Controller](https://yarenkarakus.github.io/javascript-video-speed-controller)
+- [JS Countdown Timer](https://yarenkarakus.github.io/javascript-countdown-timer)
