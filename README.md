@@ -21,6 +21,7 @@
 - [JS Array Cardio Day 2](https://yarenkarakus.github.io/javascript-array-cardio-day-2)
 - [JS Fun With Html5 Canvas ](https://yarenkarakus.github.io/javascript-fun-with-html5-canvas)
 - [JS Dev Tools Domination ](https://yarenkarakus.github.io/javascript-dev-tools-domination)
+- [JS Hold Shift And Check Checkboxes ](https://yarenkarakus.github.io/javascript-hold-shift-and-check-checkboxes)
 - [JS Key Sequence Detection ](https://yarenkarakus.github.io/javascript-key-sequence-detection)
 - [JS Slide In on Scroll ](https://yarenkarakus.github.io/javascript-slide-in-on-scroll)
 - [JS References Vs Copying ](https://yarenkarakus.github.io/javascript-references-vs-copying)
@@ -37,3 +38,4 @@
 - [JS Event Capture, Propagation, Bubbling and Once](https://yarenkarakus.github.io/javascript-event-capture-propagation-bubbling-and-once)
 - [JS Stripe Follow Along Nav](https://yarenkarakus.github.io/javascript-stripe-follow-along-nav)
 - [JS Click And Drag](https://yarenkarakus.github.io/javascript-click-and-drag)
+- [JS Video Speed Controller](https://yarenkarakus.github.io/javascript-video-speed-controller)
